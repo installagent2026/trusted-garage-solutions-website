@@ -132,7 +132,7 @@ export default function AboutPage() {
               <div className="relative">
                 <div className="relative rounded-2xl overflow-hidden shadow-2xl fine-border">
                   <Image
-                    src="/images/tgs_hero_image.png"
+                    src="/images/tgs_hero_image.webp"
                     alt="Trusted Garage Solutions quality work"
                     width={600}
                     height={450}

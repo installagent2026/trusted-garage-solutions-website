@@ -90,7 +90,7 @@ export default function Home() {
       {/* HERO — editorial split */}
       <section className="relative min-h-screen flex items-center overflow-hidden">
         <Image
-          src="/images/tgs_hero_image.png"
+          src="/images/tgs_hero_image.webp"
           alt="Modern Nashville home with a professionally installed residential garage door by Trusted Garage Solutions"
           fill
           className="object-cover"
@@ -307,7 +307,7 @@ export default function Home() {
             <AnimatedSection direction="right" delay={0.2}>
               <div className="relative rounded-2xl overflow-hidden shadow-2xl fine-border">
                 <Image
-                  src="/images/tgs_hero_image2.png"
+                  src="/images/tgs_hero_image2.webp"
                   alt="Trusted Garage Solutions technician completing a residential garage door repair in Nashville TN"
                   width={600}
                   height={500}

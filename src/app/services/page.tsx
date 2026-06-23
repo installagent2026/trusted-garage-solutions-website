@@ -105,7 +105,7 @@ export default function ServicesPage() {
     <>
       <section className="relative pt-32 pb-20 bg-charcoal overflow-hidden">
         <div className="absolute inset-0 opacity-20">
-          <Image src="/images/tgs_hero_image2.png" alt="" fill className="object-cover" />
+          <Image src="/images/tgs_hero_image2.webp" alt="" fill className="object-cover" />
         </div>
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
           <span className="text-accent font-semibold text-sm uppercase tracking-widest">

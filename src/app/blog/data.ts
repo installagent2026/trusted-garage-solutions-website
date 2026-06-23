@@ -328,7 +328,7 @@ Call **(615) 568-8072** to schedule your opener upgrade.`,
     date: "2026-02-20",
     readTime: "4 min read",
     category: "Company Info",
-    image: "/images/tgs_hero_image2.png",
+    image: "/images/tgs_hero_image2.webp",
     keywords: [
       "emergency garage door repair Nashville",
       "garage door repair Nashville TN",
@@ -403,7 +403,7 @@ Trusted Garage Solutions has been helping Nashville homeowners with garage door 
     date: "2026-02-10",
     readTime: "5 min read",
     category: "Maintenance",
-    image: "/images/tgs_hero_image.png",
+    image: "/images/tgs_hero_image.webp",
     keywords: [
       "garage door maintenance Nashville",
       "garage door repair Nashville TN",
